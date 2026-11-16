@@ -1,0 +1,15 @@
+{
+    "python.terminal.useEnvFile": true,
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "warning_db",
+            "database": "EARLY_WARNING",
+            "username": "postgres"
+        }
+    ]
+}
